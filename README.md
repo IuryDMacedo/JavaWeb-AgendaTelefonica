@@ -9,6 +9,6 @@ A aplicação foi desenvolvida utilizando o servidor de aplicação Apache Tomca
 O objetivo deste projeto é demonstrar as principais técnicas utilizadas em aplicações web em Java, bem como a utilização de JSP para a criação de páginas dinâmicas e Servlets para o processamento das requisições. Espero que este projeto seja útil para outros desenvolvedores que estejam buscando aprender mais sobre JavaWeb.
 
 # Requisitos
-Java 8 ou superior
-Apache Tomcat 8.5 ou superior
-MySQL 5.7 ou superior
+ <h3>.Java 8 ou superior</h3>
+ <h3>.Apache Tomcat 8.5 ou superio</h3>
+ <h3>.MySQL 5.7 ou superior</h3>
